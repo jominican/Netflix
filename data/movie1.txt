@@ -1,0 +1,30 @@
+BEGIN The Princess Bride
+KEYWORD: comedy
+END
+BEGIN City Lights
+KEYWORD: comedy
+KEYWORD: romance
+KEYWORD: social criticism
+END
+BEGIN Batman
+KEYWORD: comedy
+KEYWORD: action
+KEYWORD: romance
+KEYWORD: Robin
+KEYWORD: Bat
+END
+BEGIN The Hobbit: The Desolation of Smaug
+KEYWORD: comedy
+KEYWORD: action
+END
+BEGIN Harry Potter
+KEYWORD: comedy
+KEYWORD: romance
+END
+BEGIN Catching Fire
+KEYWORD: action
+END
+BEGIN The Hobbit: An Unexpected Journey
+KEYWORD: comedy
+KEYWORD: action
+END

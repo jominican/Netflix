@@ -1,0 +1,46 @@
+BEGIN The Princess Bride
+PRICE: $4.99
+KEYWORD: comedy
+ACTOR: Inigo Montoya
+ACTOR: Robin Wright
+END
+BEGIN City Lights
+PRICE: $3.99
+KEYWORD: comedy
+KEYWORD: romance
+KEYWORD: social criticism
+ACTOR: Charlie Chaplin
+END
+BEGIN Batman
+PRICE: $2.99
+KEYWORD: comedy
+KEYWORD: action
+KEYWORD: romance
+KEYWORD: Robin
+KEYWORD: Bat
+ACTOR: James Franco
+END
+BEGIN The Hobbit: The Desolation of Smaug
+PRICE: $5.99
+KEYWORD: comedy
+KEYWORD: action
+END
+BEGIN Harry Potter
+PRICE: $6.99
+KEYWORD: comedy
+KEYWORD: romance
+ACTOR: Brad Pitt
+ACTOR: James Franco
+ACTOR: Johnny Depp
+END
+BEGIN Catching Fire
+PRICE: $9.99
+KEYWORD: action
+END
+BEGIN The Hobbit: An Unexpected Journey
+PRICE: $4.99
+KEYWORD: comedy
+KEYWORD: action
+ACTOR: Johnny Depp
+ACTOR: James Franco
+END

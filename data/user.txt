@@ -1,0 +1,64 @@
+BEGIN aaroncot
+NAME: Aaron Cote
+PASSWORD: craj552
+ADDRESS: 1111 Kings Hwy
+CREDITCARD: 1234567890
+CHARGES: 100
+MOVIE: The Hobbit: An Unexpected Journey
+BEGIN QUEUE 
+City Lights
+The Hobbit: The Desolation of Smaug
+City Lights
+END QUEUE 
+BEGIN RATINGS
+END RATINGS
+END
+BEGIN dkempe
+NAME: David Kempe
+PASSWORD: craj552
+ADDRESS: 1111 Kings Hwy
+CREDITCARD: 1234567890
+CHARGES: 100
+MOVIE: Batman
+BEGIN QUEUE 
+City Lights
+Harry Potter
+City Lights
+END QUEUE 
+BEGIN RATINGS
+END RATINGS
+END
+BEGIN jominican
+NAME: Joseph Wu
+PASSWORD: craj552
+ADDRESS: 1111 Kings Hwy
+CREDITCARD: 1234567890
+CHARGES: 100
+BEGIN QUEUE 
+END QUEUE 
+BEGIN RATINGS
+1 Batman
+1 The Hobbit: An Unexpected Journey
+END RATINGS
+END
+BEGIN hawky
+NAME: Joceli Tung
+PASSWORD: craj552
+ADDRESS: 1111 Kings Hwy
+CREDITCARD: 1234567890
+CHARGES: 100
+MOVIE: Catching Fire
+BEGIN QUEUE 
+City Lights
+Harry Potter
+City Lights
+END QUEUE 
+BEGIN RATINGS
+1 The Princess Bride
+1 Harry Potter
+1 Catching Fire
+4 Batman
+1 The Hobbit: An Unexpected Journey
+5 City Lights
+END RATINGS
+END
