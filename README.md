@@ -2,12 +2,16 @@
 
 - **Name**: Joseph Wu
 
-**First: Go to the hw7 folder with cd hw7**
+**First: Go to the hw7 folder**
 
-**building the assignment**/n
-**qmake -project**/n
-**qmake**/n
-**make**/n
+**building the assignment**
+
+**qmake -project**
+
+**qmake**
+
+**make**
+
 
 running the assignment:
 ./hw7 /data/main.txt
